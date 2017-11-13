@@ -1,0 +1,2 @@
+
+Hey Git, this is my first try for Creating repo from terminal.
