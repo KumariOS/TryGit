@@ -2,3 +2,5 @@ Hey Git, this is my first try for Creating repo from terminal.
 This is second text.
 
 
+This is 3rd.
+
